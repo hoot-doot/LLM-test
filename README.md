@@ -1,1 +1,1 @@
-#### Testing different llm models for OCR app
+#### Testing different llm models for OCR app.
